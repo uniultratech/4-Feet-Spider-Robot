@@ -61,6 +61,7 @@ Pay attention to the direction of the servo, and install it according to the lef
 
 ## Step 4: Circuit Board install
 The left two modules are power supply extension ports, you can have all servo's power supply connect to that, 5v and GND for arduino board, and power supply circuit shown in step 1.
+
 ![alt text](https://user-images.githubusercontent.com/68445659/95687125-8cda4400-0bb6-11eb-98f4-74145704df04.png)
 
 ![alt text](https://user-images.githubusercontent.com/68445659/95687127-8e0b7100-0bb6-11eb-975d-3c35368f1894.png)
