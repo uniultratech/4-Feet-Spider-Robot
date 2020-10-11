@@ -83,6 +83,7 @@ The left two modules are power supply extension ports, you can have all servo's 
 ![alt text](https://user-images.githubusercontent.com/68445659/95687299-7ed8f300-0bb7-11eb-9502-4ac0ca9db60d.png)
 
 ## Step 7: connection
+Source code: https://github.com/uniultratech/4-Feet-spider-robot-source-code/blob/main/firmware.ino
 1. After receiving the goods (note that the parts are scattered) please scan according to the
 Website tutorial installation.
 
