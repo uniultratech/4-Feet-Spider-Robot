@@ -82,4 +82,20 @@ The left two modules are power supply extension ports, you can have all servo's 
 
 ![alt text](https://user-images.githubusercontent.com/68445659/95687299-7ed8f300-0bb7-11eb-9502-4ac0ca9db60d.png)
 
+## Step 7: connection
+1. After receiving the goods (note that the parts are scattered) please scan according to the
+Website tutorial installation.
 
+2.  After installation, first turn on the power switch, the rudder will appear in the initial shape in about 3 seconds, and reinstall the steering arm of the steering gearin a straight line.
+
+3. After the robot is turned on, turn on WIFI and select Makerbuying to connectthe network.
+
+4. After the match is complete, Open Google or any browser. Enter 192.168.4.1 in the search box to open the robot’s control interface.
+
+Note:
+
+This product has a specially configured charging cable. Do not use other charging cables.
+Other charging cables will burn the charging board. With polymer lithium batteries, other types of batteries are not available.
+
+Note:
+this cable only for charge propose
